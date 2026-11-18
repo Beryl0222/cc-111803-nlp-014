@@ -1,0 +1,9 @@
+{
+  "scans": [
+    {
+      "package": "PKG-A",
+      "event": "delivered",
+      "time": "2026-05-12T17:00"
+    }
+  ]
+}
