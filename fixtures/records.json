@@ -1,14 +1,20 @@
 [
   {
-    "record_id": "track-5",
+    "record_id": "track-a",
     "source": "carrier-en",
-    "revision": 2,
-    "text": "Misdelivered: parcel left at the wrong depot, redirection requested."
+    "revision": 1,
+    "text": "PKG-A misdelivered at depot. Redirection request accepted."
   },
   {
-    "record_id": "track-5-late",
+    "record_id": "track-b",
     "source": "carrier-zh",
     "revision": 1,
-    "text": "清关扫描：货件于昨日完成海关放行。"
+    "text": "订单 55 已有一件签收；替换件 PKG-C 在途。"
+  },
+  {
+    "record_id": "support-a",
+    "source": "customer-support",
+    "revision": 1,
+    "text": "客户问整单是否到齐，客服回复正在找回 PKG-A。"
   }
 ]

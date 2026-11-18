@@ -1,0 +1,36 @@
+{
+  "order": "ORD-55",
+  "packages": [
+    {
+      "id": "PKG-A",
+      "replacement_for": null
+    },
+    {
+      "id": "PKG-B",
+      "replacement_for": null
+    },
+    {
+      "id": "PKG-C",
+      "replacement_for": "PKG-A"
+    }
+  ],
+  "scans": [
+    {
+      "package": "PKG-B",
+      "event": "delivered",
+      "time": "2026-05-12T15:00"
+    },
+    {
+      "package": "PKG-A",
+      "event": "misdelivered",
+      "time": "2026-05-12T11:00"
+    }
+  ],
+  "actions": [
+    {
+      "id": "RESHIP-4",
+      "package": "PKG-C",
+      "status": "in_transit"
+    }
+  ]
+}
