@@ -16,5 +16,17 @@
     "source": "customer-support",
     "revision": 1,
     "text": "客户问整单是否到齐，客服回复正在找回 PKG-A。"
+  },
+  {
+    "record_id": "scan-en-late",
+    "source": "carrier-en",
+    "revision": 1,
+    "text": "Replacement handed over."
+  },
+  {
+    "record_id": "scan-zh-late",
+    "source": "carrier-zh",
+    "revision": 1,
+    "text": "订单 55 部分已改派，原件仍在处理。"
   }
 ]

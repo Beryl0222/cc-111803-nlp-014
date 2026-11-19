@@ -1,0 +1,102 @@
+[
+  {
+    "record_id": "track-a",
+    "source": "carrier-en",
+    "revision": 1,
+    "text": "PKG-A misdelivered at depot. Redirection request accepted.",
+    "tokens": [
+      "pkg",
+      "a",
+      "misdelivered",
+      "at",
+      "depot",
+      "redirection",
+      "request",
+      "accepted"
+    ]
+  },
+  {
+    "record_id": "track-b",
+    "source": "carrier-zh",
+    "revision": 1,
+    "text": "订单 55 已有一件签收；替换件 PKG-C 在途。",
+    "tokens": [
+      "订",
+      "单",
+      "55",
+      "已",
+      "有",
+      "一",
+      "件",
+      "签",
+      "收",
+      "替",
+      "换",
+      "件",
+      "pkg",
+      "c",
+      "在",
+      "途"
+    ]
+  },
+  {
+    "record_id": "support-a",
+    "source": "customer-support",
+    "revision": 1,
+    "text": "客户问整单是否到齐，客服回复正在找回 PKG-A。",
+    "tokens": [
+      "客",
+      "户",
+      "问",
+      "整",
+      "单",
+      "是",
+      "否",
+      "到",
+      "齐",
+      "客",
+      "服",
+      "回",
+      "复",
+      "正",
+      "在",
+      "找",
+      "回",
+      "pkg",
+      "a"
+    ]
+  },
+  {
+    "record_id": "scan-en-late",
+    "source": "carrier-en",
+    "revision": 1,
+    "text": "Replacement handed over.",
+    "tokens": [
+      "replacement",
+      "handed",
+      "over"
+    ]
+  },
+  {
+    "record_id": "scan-zh-late",
+    "source": "carrier-zh",
+    "revision": 1,
+    "text": "订单 55 部分已改派，原件仍在处理。",
+    "tokens": [
+      "订",
+      "单",
+      "55",
+      "部",
+      "分",
+      "已",
+      "改",
+      "派",
+      "原",
+      "件",
+      "仍",
+      "在",
+      "处",
+      "理"
+    ]
+  }
+]
